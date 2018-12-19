@@ -1,0 +1,17 @@
+{
+  "name": "puppet-test",
+  "version": "1.0.0",
+  "description": "webscraping using puppeteer",
+  "main": "scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "private-ryai23",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "crypto-js": "^3.1.9-1",
+    "md5": "^2.2.1",
+    "puppeteer": "^1.11.0"
+  }
+}
